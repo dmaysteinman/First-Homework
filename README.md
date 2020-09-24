@@ -1,4 +1,10 @@
 # First-Homework
 This is not my about me webpage
 This is a page in which I work on sourcing materials into the page and linking them up correctly. Relative paths!!
-Struggled with the initial assignment but once Paul helped me understand I got it pretty easily. basically, as far as I can tell, we're trying to link up the CSS with the repository with the folder so the html knows where to pull sources from. 
+Struggled with the initial assignment, not knowing what I was supposed to be doing, but once I harassed Paul on Slack he helped me understand. 
+
+basically, as far as I can tell, we're trying to link up the CSS with the repository with the folder so the html knows where to pull sources from. 
+
+We're also making sure the links work, the images work. I got the links and images pretty quick but I'm struggling to make the html and css as clean as possible. 
+
+I'm struggling to join things in HTML and CSS, losing track of what goes where and how I get them to talk to each other. I'm going to practice that more today (9/24)
