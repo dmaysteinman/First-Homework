@@ -8,3 +8,9 @@ basically, as far as I can tell, we're trying to link up the CSS with the reposi
 We're also making sure the links work, the images work. I got the links and images pretty quick but I'm struggling to make the html and css as clean as possible. 
 
 I'm struggling to join things in HTML and CSS, losing track of what goes where and how I get them to talk to each other. I'm going to practice that more today (9/24)
+
+It turns out that I was pushing the wrong css file. Pushing the correct CSS file has made the CSS editing endeavor quite a bit easier. Funny how that works out. 
+
+Still working on combining redundant CSS lines. Hmm. 
+
+So, just to reiterate, when you change the correct file and link the correct files together, it is a lot easier. Kind of like how swimming with floaties is easier than swimming with an anvil. 
