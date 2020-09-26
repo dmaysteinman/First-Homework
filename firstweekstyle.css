@@ -2,35 +2,41 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    font-family: 'Actor', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Quattrocento Sans', sans-serif;
 }
 
 body {
     background-color: #d9dcd6;
+    font-family: 'Dosis', sans-serif;
 }
 
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Dosis', sans-serif;    
     background-color: #2a607c;
     color: #ffffff;
 }
 
 .header h1 {
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    /* font-family: 'Dosis', sans-serif; */
     display: inline-block;
     font-size: 48px;
+    font-weight: bold;
+    padding-bottom: 0px;
 }
 
 .header h1 .seo {
     color: #d9dcd6;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    /* font-family: 'Dosis', sans-serif; */
 }
 
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    /* font-family: 'Dosis', sans-serif; */
     font-size: 20px;
 }
 
@@ -73,17 +79,17 @@ p {
 
 .content {
     width: 75%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-family: 'Quattrocento Sans', sans-serif;
     display: inline-block;
     margin-left: 20px;
 }
 
 .content-subclass {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 40px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    font-family: 'Quattrocento Sans', sans-serif;
+    background-color: rgb(59, 114, 163);
     color: #ffffff;
 }
 
@@ -98,7 +104,7 @@ p {
 }
 
 .content-subclass p {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .benefit {
@@ -108,8 +114,8 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    font-family: 'Actor', sans-serif;    
+    background-color: #2a607c;
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -119,6 +125,7 @@ p {
     text-align: center;
     font-size: 24px;
     font-weight: bold;
+    /* padding: 10px; */
 }
 
 .benefit img {
@@ -128,7 +135,7 @@ p {
 }
 
 .benefit p {
-    padding: 20px;
+    padding-bottom: 15px;
     font-size: 16px;
 }
 
@@ -136,7 +143,6 @@ p {
     padding: 30px;
     color: black;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
