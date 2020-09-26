@@ -16,3 +16,5 @@ Still working on combining redundant CSS lines. Hmm.
 So, just to reiterate, when you change the correct file and link the correct files together, it is a lot easier. Kind of like how swimming with floaties is easier than swimming with an anvil. 
 
 Added reset.css which means I have to (get to) tinker with the fonts and sizes
+
+Played with fonts, now struggling to get my images into github pages
