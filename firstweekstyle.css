@@ -75,6 +75,7 @@ p {
 }
 
 .content {
+    float: left;
     width: 75%;
     font-family: 'Quattrocento Sans', sans-serif;
     margin-left: 20px;
@@ -83,7 +84,7 @@ p {
 
 .content-subclass {
     margin-bottom: 20px;
-    padding: 40px;
+    padding: 20px;
     font-family: 'Quattrocento Sans', sans-serif;
     background-color: rgb(59, 114, 163);
     color: #ffffff;
@@ -105,8 +106,7 @@ p {
 
 .benefit {
     margin-right: 20px;
-    padding: 20px;
-    clear: both;
+    padding: 10px;
     float: right;
     width: 20%;
     height: 70%;
