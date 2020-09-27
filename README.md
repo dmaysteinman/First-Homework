@@ -20,3 +20,5 @@ Added reset.css which means I have to (get to) tinker with the fonts and sizes
 Played with fonts, now struggling to get my images into github pages. 
 
 When I keep images in a subfolder, they don't load. Which is weird because I'm pretty sure I linked them correctly. As of right now I'm not putting them in a subfolder but I'd like to know why. 
+
+[full page screenshot taken with dev tools ](./First-Homework/screenshot.png)
