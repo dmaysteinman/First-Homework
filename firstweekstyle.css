@@ -64,9 +64,13 @@ p {
     background-position: center;
 }
 
+.main {
+    display: flex;
+    flex-direction: column;
+}
+
 .float-left {
     display: flex;
-
     float: left;
     margin-right: 25px;
 }
@@ -79,9 +83,10 @@ p {
 .content {
     width: 75%;
     font-family: 'Quattrocento Sans', sans-serif;
-    display: inline-block;
     margin-left: 20px;
     height: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 .content-subclass {
@@ -116,6 +121,8 @@ p {
     font-family: 'Actor', sans-serif;    
     background-color: #2a607c;
     color: #ffffff;
+    display: flex;
+    flex-direction: column;
 }
 
 .benefit h3 {
